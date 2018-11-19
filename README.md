@@ -11,7 +11,7 @@ http://faculty.cse.tamu.edu/djimenez/614/hw2/traces/
 
 
 ## Command-Line Parameters
-* There should be four command line parameters in this order:
+* There should be five command line parameters in this order:
   1.	nk: the capacity of the cache in kilobytes (an int)
   2.	assoc: the associativity of the cache (an int)
   3.	blocksize: the size of a single cache block in bytes (an int)

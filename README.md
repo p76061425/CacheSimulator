@@ -75,8 +75,8 @@ w_cnt:7104
 2.percentage of misses:5.5752%
 3.total number of read misses:55703
 4.percentage of read misses:5.61015%
-3.total number of write misses:49
-4.percentage of write misses:0.689752%
+5.total number of write misses:49
+6.percentage of write misses:0.689752%
 ========================================
 
 ```
